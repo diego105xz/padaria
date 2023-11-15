@@ -13,6 +13,3 @@ Projeto de uma Página Statica para comercio local, aplicando psycologia das cor
 
 ### Layout Web
 ![WEB](https://github.com/diego105xz/RepositorioImg/blob/main/padariaWeb.jpg)
-
-### Layout Mobile
-![MOBILE](https://github.com/diego105xz/RepositorioImg/blob/main/padariaMobile.jpg)
